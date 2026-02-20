@@ -1,4 +1,3 @@
-<h1 align="center"> Nandana </h1>
 
 <p align="center">
   <em>CS Undergrad @ VIT Vellore &nbsp;•&nbsp; Data Science @ IIT-M &nbsp;•&nbsp; ML Enthusiast &nbsp;•&nbsp; Designer &nbsp;•&nbsp; Writer</em>
@@ -13,9 +12,9 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
-I'm a **Computer Science undergrad ** passionate about building intelligent systems that create real-world impact.
+I'm a Computer Science undergrad passionate about building intelligent systems that create real-world impact.
 
 I sit at the intersection of **machine learning, data science, and design** — I love both writing clean models and crafting clean interfaces. Outside code, I write on Medium at the intersection of technology, philosophy, and student life.
 
