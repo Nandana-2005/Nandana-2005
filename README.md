@@ -1,6 +1,6 @@
 
 <p align="center">
-  <em>CS Undergrad @ VIT Vellore &nbsp;•&nbsp; Data Science @ IIT-M &nbsp;•&nbsp; ML Enthusiast &nbsp;•&nbsp; Designer &nbsp;•&nbsp; Writer</em>
+  <em>CS Undergrad @ VIT Vellore &nbsp;•&nbsp; Data Science @ IIT-M &nbsp;•&nbsp; ML Enthusiast &nbsp;•&nbsp;•&nbsp; Writer</em>
 </p>
 
 <p align="center">
